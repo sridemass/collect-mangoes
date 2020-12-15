@@ -1,1 +1,2 @@
-# collect-mangoes
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
